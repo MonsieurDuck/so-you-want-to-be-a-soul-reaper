@@ -5,7 +5,7 @@ _Hades needs a new reaper of souls, and you're his newest intern. Lead souls to 
 
 An action-puzzle game about harvesting souls! Made in 72 hours for [Ludum Dare 52](https://ldjam.com/events/ludum-dare/52), which had the theme "harvest".
 
-# Play it on [Itch.io]( https://engineereng.itch.io/so-you-want-to-be-a-soul-reaper)!
+# Play it on [Itch.io]( https://monsieurduck.itch.io/so-you-wanna-be-a-soul-reaper)!
 
 ### Credits
 - Brayden Shinkawa ([GitHub](https://github.com/brayshi))
